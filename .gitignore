@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/test_mes.iml
+/.idea/vcs.xml
+/.idea/test_mes1.iml
+/app/db.sqlite3
