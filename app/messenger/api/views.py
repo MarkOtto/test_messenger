@@ -49,7 +49,6 @@ class UsersView(generics.ListAPIView):
     permission_classes = (IsAuthenticated,)
     queryset = User.objects.all().order_by('username')
     serializer_class = UserSerializer
-    pagination_class = Pagination3
 
 
 class MessagesView(generics.ListAPIView):
